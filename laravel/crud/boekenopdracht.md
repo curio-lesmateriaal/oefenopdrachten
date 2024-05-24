@@ -13,6 +13,7 @@ Je bent een ontwikkelaar en je hebt de opdracht gekregen om een eenvoudig boeken
 - Overzicht/Detail opdracht: Er moet een overzicht van alle boeken zijn, en je moet details van een individueel boek kunnen bekijken.
 - Er moet een functionaliteit zijn om een nieuw boek aan te maken.
 - De database moet minimaal twee tabellen hebben (auteurs en boeken) met een relatie tussen deze tabellen.
+- De applicatie is responsive gemaakt (met media queries, bootstrap of tailwind).
 
 ## Stappenplan:
 
